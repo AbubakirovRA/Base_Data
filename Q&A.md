@@ -1,3 +1,6 @@
+https://coderlessons.com/tutorials/bazy-dannykh/osnovy-subd/9-kliuchi-subd
+
+
 1) Определить базу данных.
 
 Предварительно организованная коллекция цифр, известная как данные, называется базой данных.
